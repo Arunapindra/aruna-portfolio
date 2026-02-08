@@ -1,14 +1,14 @@
 import { SiteConfig } from "./types";
 
 export const siteConfig: SiteConfig = {
-  name: "Aruna Pindra",
+  name: "Aruna Ch",
   title: "Senior DevOps Engineer",
   location: "Dallas, TX",
   email: "arunacheendrim7@gmail.com",
   phone: "469-224-0908",
   linkedin: "https://linkedin.com/in/aruna-ch-a6bab933ss/",
   github: "https://github.com/Arunapindra",
-  resumeFile: "/Aruna_Pindra_Resume.docx",
+  resumeFile: "/Aruna_Ch_Resume.docx",
 
   summary:
     "DevOps Engineer with 6+ years of experience designing and implementing CI/CD pipelines, cloud infrastructure, and container orchestration platforms. Proven track record at Fortune 500 companies including Capital One and Deloitte, driving infrastructure automation, reducing deployment times, and improving system reliability. Passionate about building scalable, secure, and observable platforms using modern DevOps practices.",

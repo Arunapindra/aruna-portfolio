@@ -8,9 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Aruna Pindra | Senior DevOps Engineer",
+  title: "Aruna Ch | Senior DevOps Engineer",
   description:
-    "Portfolio of Aruna Pindra — Senior DevOps Engineer specializing in AWS, Kubernetes, Terraform, and CI/CD pipeline automation. 6+ years of experience building scalable cloud infrastructure.",
+    "Portfolio of Aruna Ch — Senior DevOps Engineer specializing in AWS, Kubernetes, Terraform, and CI/CD pipeline automation. 6+ years of experience building scalable cloud infrastructure.",
   keywords: [
     "DevOps Engineer",
     "Cloud Engineer",
@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     "Docker",
     "Platform Engineering",
   ],
-  authors: [{ name: "Aruna Pindra" }],
+  authors: [{ name: "Aruna Ch" }],
   openGraph: {
-    title: "Aruna Pindra | Senior DevOps Engineer",
+    title: "Aruna Ch | Senior DevOps Engineer",
     description:
       "Senior DevOps Engineer specializing in AWS, Kubernetes, Terraform, and CI/CD pipeline automation.",
     type: "website",
