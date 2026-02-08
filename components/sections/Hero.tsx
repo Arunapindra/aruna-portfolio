@@ -113,7 +113,7 @@ export function Hero() {
                 src="/profile.jpeg"
                 alt={siteConfig.name}
                 fill
-                className="object-cover object-[50%_12%] scale-[2.3]"
+                className="object-cover"
                 priority
                 sizes="(max-width: 768px) 256px, 320px"
               />
